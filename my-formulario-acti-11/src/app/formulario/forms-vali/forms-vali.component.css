@@ -1,0 +1,15 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.color{
+    background-color: rgb(56, 56, 59);
+}
+.text{
+    color: white;
+}
+h2{
+    color: white;
+}
+span{
+    color: white;
+}
